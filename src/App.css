@@ -1,0 +1,133 @@
+#finHeading{
+	display: flex;
+	justify-content: center;
+	color: blue;
+	font-weight: bold;
+	text-transform: uppercase;
+	cursor: pointer;
+	font-family: calibri;
+	margin-bottom: 10px;
+
+}
+
+#clientname{
+	text-transform: capitalize;
+	font-weight: bold;
+}
+
+
+#finimg{
+	display: flex;
+	justify-content: flex-end;
+	margin-top:0px;
+}
+#inputform{
+	display: flex;
+	/*justify-content: center;*/
+	margin-top: auto;
+	margin-bottom: auto
+}
+.input{
+	margin: 10px;
+	font-weight: bold;
+}
+
+.btn{
+	
+	padding: 12px;
+	border-radius: 25px;
+	background-color: grey;
+	cursor: pointer;
+	margin: 0px 20px;
+	font-weight: bold;
+	outline: none;
+}
+
+.btn2{
+	outline: none;
+	padding: 12px;
+	border-radius: 25px;
+	background-color: grey;
+	cursor: pointer;
+	font-weight: bold;
+	
+}
+
+.btn3{
+	margin: 0 15px;
+	outline: none;
+	padding: 12px;
+	border-radius: 25px;
+	background-color: grey;
+	cursor: pointer;
+	font-weight: bold;
+	
+}
+
+.btn:hover{
+	background-color: orange;
+	
+}
+
+
+.btn2:hover{
+	background-color: orange;
+	
+}
+
+.btn3:hover{
+	background-color: orange;
+	
+}
+
+
+#titleHeader{
+	display: flex;
+	/*justify-content: center;*/
+	margin-top: 50px;
+}
+
+#titleContainer{
+	
+	display: flex;
+	border: 2px solid black;
+	width: 900px;
+	background-color: blue;
+}
+
+.title{
+		
+	color: white;
+	font-family: 'sans serif' ;
+	margin-top: 0px;
+	margin-bottom: 0px;
+
+
+
+}
+
+.chart{
+	width: 900px;
+	margin-top: 10px;
+}
+
+
+.titleSpan1{
+	margin-left: 80px;
+	
+}
+
+.titleSpan2{
+	margin-left: 120px;
+	
+}
+
+.titleSpan3{
+	margin-left: 70px;
+
+}
+
+.titleSpan4{
+	margin-left: 200px;
+	
+}
